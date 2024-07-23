@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.Dve1kbzM.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nestjs.md","filePath":"nestjs.md","lastUpdated":1721660361000}'),a={name:"nestjs.md"};function n(r,o,c,d,p,_){return s(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};

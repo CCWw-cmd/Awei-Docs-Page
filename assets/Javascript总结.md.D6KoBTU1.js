@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./chunks/framework.b0klVVrp.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Javascript总结.md","filePath":"Javascript总结.md","lastUpdated":1721660361000}'),r={name:"Javascript总结.md"};function s(c,o,p,n,i,_){return e(),a("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Dve1kbzM.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vite配置.md","filePath":"vite配置.md","lastUpdated":1721660361000}'),r={name:"vite配置.md"};function o(s,c,n,i,_,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

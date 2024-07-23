@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Dve1kbzM.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Typescript总结.md","filePath":"Typescript总结.md","lastUpdated":1721660361000}'),r={name:"Typescript总结.md"};function s(p,c,o,n,i,_){return a(),t("div")}const f=e(r,[["render",s]]);export{m as __pageData,f as default};
