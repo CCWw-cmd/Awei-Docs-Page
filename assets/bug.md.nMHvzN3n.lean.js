@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Dve1kbzM.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bug.md","filePath":"bug.md","lastUpdated":1721660361000}'),r={name:"bug.md"};function o(s,c,n,d,p,_){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

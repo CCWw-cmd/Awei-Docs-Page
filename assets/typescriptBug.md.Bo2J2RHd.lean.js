@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.Dve1kbzM.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"typescriptBug.md","filePath":"typescriptBug.md","lastUpdated":1721660361000}'),r={name:"typescriptBug.md"};function s(p,c,o,n,i,d){return a(),e("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};

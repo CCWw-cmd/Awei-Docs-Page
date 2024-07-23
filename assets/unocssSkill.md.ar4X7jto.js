@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.Dve1kbzM.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"unocssSkill.md","filePath":"unocssSkill.md","lastUpdated":1721660361000}'),a={name:"unocssSkill.md"};function o(c,n,r,l,i,d){return s(),t("div")}const m=e(a,[["render",o]]);export{_ as __pageData,m as default};
