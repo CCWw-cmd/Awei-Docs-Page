@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CWNWo6W8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"everydayCssNote.md","filePath":"everydayCssNote.md","lastUpdated":1721921041000}'),s={name:"everydayCssNote.md"};function r(o,d,c,n,p,_){return a(),t("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

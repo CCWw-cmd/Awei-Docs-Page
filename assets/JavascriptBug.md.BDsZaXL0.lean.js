@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.CWNWo6W8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavascriptBug.md","filePath":"JavascriptBug.md","lastUpdated":1721921041000}'),r={name:"JavascriptBug.md"};function s(c,o,p,n,i,d){return e(),a("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};
